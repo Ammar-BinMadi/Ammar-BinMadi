@@ -3,6 +3,8 @@ Config files for my GitHub profile.
 
 files : multiTabletMatching.py, templateTissue.png, sourceTissue.jpg.
 
+the pics are for Odontogenic keratocysts
+
 This is a python project that matches Templates by moving the Template which in our case is templateTissue.png
 
 on the source which is sourceTissue.jpg 
