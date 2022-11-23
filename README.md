@@ -1,5 +1,6 @@
 # multiTemplateMatching
 Config files for my GitHub profile.
+files : multiTabletMatching.py, templateTissue.png, sourceTissue.jpg.
 
 This is a python project that matches Templates by moving the Template which in our case is templateTissue.png
 
