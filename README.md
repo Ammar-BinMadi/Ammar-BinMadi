@@ -15,3 +15,5 @@ The accurecy of the match can be changed but it should follows a range form 1.0 
 
 libraries used:
 numpy, openCV, matplotlib
+
+you should download AND import those packges in order to run the code proberly
